@@ -1,7 +1,7 @@
 <template>
   <!-- pied de page Adele -->
   <div style="margin-bottom: 2%; margin-top:2rem; text-align:center">
-    <p><small><router-link to="/">ReviZoodle</router-link> is open source</small> - <small><a href="https://jfparmentier.fr/contact">GitHub</a></small></p>
+    <p><small><router-link to="/">ReviZoodle</router-link> is open source</small> - <small><a href="https://github.com/jfparmentier/revizoodle_router">GitHub</a></small></p>
   </div>
 </template>
 

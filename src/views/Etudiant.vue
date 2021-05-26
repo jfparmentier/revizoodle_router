@@ -13,14 +13,14 @@
     <table class="u-full-width">
       <tbody>
       <tr>
-        <th>Aérodynamique</th>
+        <th>Mécanique rationnelle</th>
         <td style="text-align: right;">13/01/2021</td>
-        <td style="text-align: right;"><router-link class="bouton-avance" to="/etudiant/classe">&gt;</router-link></td>
+        <td style="text-align: right;"><router-link class="bouton-avance" to="/etudiant/cours">&gt;</router-link></td>
       </tr>
       <tr>
-        <th>Introduction mécanique L1</th>
+        <th>Mathématique appliquée</th>
         <td style="text-align: right;">01/09/2020</td>
-        <td style="text-align: right;"><router-link class="bouton-avance" to="/etudiant/classe">&gt;</router-link></td>
+        <td style="text-align: right;"><router-link class="bouton-avance" to="/etudiant/cours">&gt;</router-link></td>
       </tr>
       </tbody>
     </table>
